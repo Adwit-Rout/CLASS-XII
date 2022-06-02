@@ -7,14 +7,15 @@ Contain some ERROR and wrong. "Don't follow up blindly"
 1. Write a Python program to print the following string in a specific format (see the
 output). Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up
 above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I
-wonder what you are" Output :
-Twinkle, twinkle, little star,
-How I wonder what you are!
-Up above the world so high,
-Like a diamond in the sky.
+wonder what you are" 
+  Output :
+    Twinkle, twinkle, little star,
+    How I wonder what you are!
+    Up above the world so high,
+    Like a diamond in the sky.
+    Twinkle, twinkle, little star,
+    How I wonder what you are
 
-Twinkle, twinkle, little star,
-How I wonder what you are
 2. Write a Python program to get the Python version you are using.
 3. Write a Python program to display the current date and time.
 Sample Output :
@@ -422,21 +423,16 @@ followed by a consecutive sequence of ones of same length in a given string. Ret
 True/False.
 Original sequence: 01010101
 Check if every consecutive sequence of zeroes is followed by a consecutive sequence
-of ones in the said string:
-True
+of ones in the said string: True
 Original sequence: 00
 Check if every consecutive sequence of zeroes is followed by a consecutive sequence
-of ones in the said string:
-False
+of ones in the said string: False
 Original sequence: 000111000111
 Check if every consecutive sequence of zeroes is followed by a consecutive sequence
-of ones in the said string:
-True
+of ones in the said string: True
 Original sequence: 00011100011
 Check if every consecutive sequence of zeroes is followed by a consecutive sequence
-of ones in the said string:
-
-False
+of ones in the said string: False
 
 143. Write a Python program to determine if the python shell is executing in 32bit or
 64bit mode on operating system.
